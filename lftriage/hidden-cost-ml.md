@@ -31,8 +31,8 @@ built it.
 
 Something has to actually run the model against new data, reliably, on a schedule or on demand. That
 is engineering work distinct from the model itself, and it's where most of the ongoing cost actually
-lives. If your client's engineer is building and hosting this, `lfserving` on Learn Fast is the drill
-that covers this checklist in full engineering depth.
+lives. If your client's engineer is building and hosting this, **Build a Model-Serving Engine** on
+Learn Fast is the drill that covers this checklist in full engineering depth.
 
 ---
 

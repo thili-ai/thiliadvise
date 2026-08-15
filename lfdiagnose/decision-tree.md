@@ -32,7 +32,7 @@ suggests — the tree exists to catch the reflex, not to rule fine-tuning out.
 
 | Pattern called | Next drill |
 |---|---|
-| Search your own data (RAG) | `lfagents-lfrag` |
-| A first working service, prompt-only | `lftools-lfecosystem` |
-| Take action (agentic) | see `lfblastradius` first, then the relevant `lfagents-*` drill |
-| Genuine fine-tune need | `lfllm-*` (fine-tuning track) |
+| Search your own data (RAG) | A retrieval-focused drill (not yet in the catalog) |
+| A first working service, prompt-only | **Build Your First AI Service** |
+| Take action (agentic) | see **Agent Blast Radius** first, then the relevant agents drill |
+| Genuine fine-tune need | the fine-tuning track |

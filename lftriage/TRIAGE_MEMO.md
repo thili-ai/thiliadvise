@@ -58,10 +58,10 @@ not "it might not work," but the concrete failure: cost, calibration, auditabili
 
 | Part tagged | Next step |
 |---|---|
-| GenAI | `lfdiagnose` — prompt, RAG, or fine-tune |
-| Classical ML, hosting unscoped | Their engineer takes `lfserving` |
-| GenAI, hosting unscoped | Their engineer takes `lfllmserving` |
-| Needs real cost numbers | `lftokenomics` |
+| GenAI | **Build vs. Buy vs. Prompt** — prompt, RAG, or fine-tune |
+| Classical ML, hosting unscoped | Their engineer takes **Build a Model-Serving Engine** |
+| GenAI, hosting unscoped | Their engineer takes **Serve an LLM at Scale** |
+| Needs real cost numbers | **Token Economics & Cost Modeling** |
 
 ---
 

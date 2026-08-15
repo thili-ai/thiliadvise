@@ -1,9 +1,8 @@
 # The four honest patterns
 
-Reused vocabulary from `lffounder-lfaiproduct` deliberately — the same four names, not a second
-taxonomy for the same idea. Most vague AI asks decompose into exactly one of these. When a request
-won't decompose cleanly, that's the tell it's two projects wearing one sentence — see
-`case-packet.md`.
+These four patterns are the standard vocabulary for what an AI system can honestly do. Most vague AI
+asks decompose into exactly one of these. When a request won't decompose cleanly, that's the tell
+it's two projects wearing one sentence — see `case-packet.md`.
 
 | Pattern | What it means | Example |
 |---|---|---|

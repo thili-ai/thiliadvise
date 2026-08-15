@@ -45,6 +45,7 @@ classical ML usually wins on unit economics. That's exactly why a bank's fraud-d
 classical model scoring millions of transactions a day, not an LLM call per transaction, even though
 an LLM could technically do the classification.
 
-`lftokenomics`, later in this track, puts real numbers on exactly this crossing point for a specific
-client's volume. If your client's engineer is building and hosting the GenAI side, `lfllmserving` on
-Learn Fast covers the KV cache, continuous batching, and token economics in full engineering depth.
+**Token Economics & Cost Modeling**, later in this track, puts real numbers on exactly this crossing
+point for a specific client's volume. If your client's engineer is building and hosting the GenAI
+side, **Serve an LLM at Scale** on Learn Fast covers the KV cache, continuous batching, and token
+economics in full engineering depth.
