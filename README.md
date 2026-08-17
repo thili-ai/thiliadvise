@@ -33,7 +33,7 @@ with the track rather than being built all at once.
 | [`lftriage/`](./lftriage/) | **ML, GenAI, or Just Software?** — does this need a model at all, and if so, which kind? | authored |
 | [`lfdiagnose/`](./lfdiagnose/) | **Build vs. Buy vs. Prompt** — given it's GenAI, prompt, RAG, or fine-tune? | authored |
 | [`lfdemocheck/`](./lfdemocheck/) | **Reading a Vendor Demo** — what is this demo not showing me? | authored |
-| `lfdataready/` | The Data Readiness Audit | planned |
+| [`lfdataready/`](./lfdataready/) | **The Data Readiness Audit** — is the client's data even usable before anyone touches a model? | authored |
 | `lftokenomics/` | Token Economics & Cost Modeling | planned |
 | `lflatency/` | The Latency Reality Check | planned |
 | `lfguardrails/` | Hallucination & Guardrails | planned |
