@@ -34,7 +34,7 @@ with the track rather than being built all at once.
 | [`lfdiagnose/`](./lfdiagnose/) | **Build vs. Buy vs. Prompt** — given it's GenAI, prompt, RAG, or fine-tune? | authored |
 | [`lfdemocheck/`](./lfdemocheck/) | **Reading a Vendor Demo** — what is this demo not showing me? | authored |
 | [`lfdataready/`](./lfdataready/) | **The Data Readiness Audit** — is the client's data even usable before anyone touches a model? | authored |
-| `lftokenomics/` | Token Economics & Cost Modeling | planned |
+| [`lftokenomics/`](./lftokenomics/) | **Token Economics & Cost Modeling** — what will this actually cost per user, per month, at their volume? | authored |
 | `lflatency/` | The Latency Reality Check | planned |
 | `lfguardrails/` | Hallucination & Guardrails | planned |
 | `lfinjection/` | Prompt Injection & Data Leakage | planned |

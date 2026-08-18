@@ -1,0 +1,4 @@
+scenario,monthly_sessions,avg_turns_per_session,monthly_calls,input_tokens_per_call,output_tokens_per_call,input_price_per_1k,output_price_per_1k,embedding_calls,embedding_price_per_1k,monthly_api_cost,cost_per_session
+pilot,,,,,,,,,,,
+launch,,,,,,,,,,,
+scale,,,,,,,,,,,
